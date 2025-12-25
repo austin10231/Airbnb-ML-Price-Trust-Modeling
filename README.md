@@ -74,9 +74,10 @@ The goal is not only to achieve reasonable predictive performance, but also to *
 
 The following plots are included in the `images/` directory:
 
-- SHAP summary plot (model interpretability)
-- Feature importance bar chart
-- Prediction vs. Actual (log price)
+
+![SHAP Summary](images/shap_summary.png)
+![Top 15 Features Importances](images/top_15_features.png)
+![Prediction vs Actual](images/pred_vs_actual_log.png)
 
 ---
 
