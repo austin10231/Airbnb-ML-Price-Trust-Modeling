@@ -87,3 +87,10 @@ The following plots are included in the `images/` directory:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+---
+
+## Author
+
+© 2025 Mutian He  
+This project was developed by Mutian He for learning purposes.
